@@ -1,0 +1,100 @@
+
+---Downloaded files---
+The import files for: Home Restaurant were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://morena-restaurant.ru
+Data file = /var/www/u1325216/data/www/morena-restaurant.ru/wp-content/themes/resca/inc/admin/data/demodata.xml
+Widget file = /var/www/u1325216/data/www/morena-restaurant.ru/wp-content/themes/resca/inc/admin/data/widgets.wie
+Customizer file = /var/www/u1325216/data/www/morena-restaurant.ru/wp-content/themes/resca/inc/admin/data/setting.json
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+---Importing widgets---
+Sidebar : 
+
+Текст - About blog - Imported
+Рубрики - Categories - Imported
+Текст - instagram - Imported
+Свежие записи - Recent Posts - Imported
+Текст - Pinterest - Imported
+Текст - No Title - Imported
+Текст - Get our newsletter - Imported
+
+Menu Right : 
+
+Thim: Social Links - No Title - Imported
+
+Footer : 
+
+Thim: Single Images - No Title - Imported
+Thim: Icon Box - No Title - Imported
+Thim: Social Links - No Title - Imported
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not in a correct format. Please make sure to use the correct customizer import file.
+
+---ocdi/after_import---
+

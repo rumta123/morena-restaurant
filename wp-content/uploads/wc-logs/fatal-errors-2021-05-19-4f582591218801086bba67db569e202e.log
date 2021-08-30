@@ -1,0 +1,10 @@
+2021-05-19T09:33:10+00:00 CRITICAL Uncaught Error: Call to undefined function icl_unregister_string() in /var/www/u1325216/data/www/morena-restaurant.ru/wp-content/themes/resca/inc/widgets/icon-box/icon-box.php:523
+Stack trace:
+#0 /var/www/u1325216/data/www/morena-restaurant.ru/wp-includes/class-wp-hook.php(294): icon_box_update_option('widget_social')
+#1 /var/www/u1325216/data/www/morena-restaurant.ru/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/u1325216/data/www/morena-restaurant.ru/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#3 /var/www/u1325216/data/www/morena-restaurant.ru/wp-includes/option.php(486): do_action('updated_option', 'widget_social', Array, Array)
+#4 /var/www/u1325216/data/www/morena-restaurant.ru/wp-includes/class-wp-widget.php(565): update_option('widget_social', Array)
+#5 /var/www/u1325216/data/www/morena-restaurant.ru/wp-includes/class-wp-widget.php(471): WP_Widget->save_settings(Array)
+#6 /var/www/u1325216/data/www/morena-restaurant.ru/wp-admin/includes/ajax-actions.php(23 в /var/www/u1325216/data/www/morena-restaurant.ru/wp-content/themes/resca/inc/widgets/icon-box/icon-box.php на строке 523
+

@@ -1,0 +1,40 @@
+
+---Downloaded files---
+The import files for: Home Restaurant were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://morena-restaurant.ru
+Data file = /var/www/u1325216/data/www/morena-restaurant.ru/wp-content/themes/resca/inc/admin/data/demodata.xml
+Widget file = /var/www/u1325216/data/www/morena-restaurant.ru/wp-content/themes/resca/inc/admin/data/widgets.wie
+Customizer file = /var/www/u1325216/data/www/morena-restaurant.ru/wp-content/themes/resca/inc/admin/data/setting.json
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+Текст - About blog - Widget already exists
+Рубрики - Categories - Widget already exists
+Текст - instagram - Widget already exists
+Свежие записи - Recent Posts - Widget already exists
+Текст - Pinterest - Widget already exists
+Текст - No Title - Widget already exists
+Текст - Get our newsletter - Widget already exists
+
+Menu Right : 
+
+Thim: Social Links - No Title - Widget already exists
+
+Footer : 
+
+Thim: Single Images - No Title - Widget already exists
+Thim: Icon Box - No Title - Widget already exists
+Thim: Social Links - No Title - Widget already exists
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not in a correct format. Please make sure to use the correct customizer import file.
+
+---ocdi/after_import---
+
